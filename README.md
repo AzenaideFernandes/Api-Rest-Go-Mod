@@ -1,7 +1,7 @@
 # Api-Rest-Go-Mod
 Api Rest em linguagem Go <br>
 Para executar digite: go run .(Subir o servidor) <br>
-Para enviara uma requisição - digite: curl http://localhost:8080/albums <br>
+Para enviara uma requisição - digite: curl http://localhost:8080/albums <br> <br>
 Para adidionar um novo item - digite as linhas abaixo: <br>
 curl http://localhost:8080/albums \ <br>
     --include \ <br>
